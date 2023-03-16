@@ -1,3 +1,115 @@
 {
-  "hotels":[]
+  "hotels": [
+    {
+      "category": "Family",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpHTMH7Tv6VsaJuHlIlJ8YjBOVXG5f96aJmiO00id&s",
+      "type_of_room": "AC",
+      "bed_type": "Family",
+      "no_of_persons": "9",
+      "capacity": "7",
+      "cost": "889",
+      "booked": true,
+      "id": 1
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpHTMH7Tv6VsaJuHlIlJ8YjBOVXG5f96aJmiO00id&s",
+      "type_of_room": " non AC",
+      "bed_type": "Family",
+      "no_of_persons": "",
+      "capacity": "7",
+      "cost": "900",
+      "booked": false,
+      "id": 2
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpHTMH7Tv6VsaJuHlIlJ8YjBOVXG5f96aJmiO00id&s",
+      "type_of_room": "AC",
+      "bed_type": "Family",
+      "no_of_persons": "7",
+      "capacity": "9",
+      "cost": "555",
+      "booked": false,
+      "id": 3
+    },
+    {
+      "category": "Suite",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpHTMH7Tv6VsaJuHlIlJ8YjBOVXG5f96aJmiO00id&s",
+      "type_of_room": " non AC",
+      "bed_type": "Family",
+      "no_of_persons": "5",
+      "capacity": "8",
+      "cost": "787",
+      "booked": false,
+      "id": 4
+    },
+    {
+      "category": "Suite",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpHTMH7Tv6VsaJuHlIlJ8YjBOVXG5f96aJmiO00id&s",
+      "type_of_room": "AC",
+      "bed_type": "Family",
+      "no_of_persons": "8",
+      "capacity": "9",
+      "cost": "789",
+      "booked": false,
+      "id": 5
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpHTMH7Tv6VsaJuHlIlJ8YjBOVXG5f96aJmiO00id&s",
+      "type_of_room": " non AC",
+      "bed_type": "Family",
+      "no_of_persons": "8",
+      "capacity": "5",
+      "cost": "899",
+      "booked": false,
+      "id": 6
+    },
+    {
+      "category": "Family",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpHTMH7Tv6VsaJuHlIlJ8YjBOVXG5f96aJmiO00id&s",
+      "type_of_room": "AC",
+      "bed_type": "Family",
+      "no_of_persons": "3",
+      "capacity": "5",
+      "cost": "1000",
+      "booked": false,
+      "id": 7
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpHTMH7Tv6VsaJuHlIlJ8YjBOVXG5f96aJmiO00id&s",
+      "type_of_room": "AC",
+      "bed_type": "Family",
+      "no_of_persons": "8",
+      "capacity": "5",
+      "cost": "734",
+      "booked": false,
+      "id": 8
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpHTMH7Tv6VsaJuHlIlJ8YjBOVXG5f96aJmiO00id&s",
+      "type_of_room": "AC",
+      "bed_type": "Deluxe",
+      "no_of_persons": "7",
+      "capacity": "9",
+      "cost": "1100",
+      "booked": false,
+      "id": 9
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpHTMH7Tv6VsaJuHlIlJ8YjBOVXG5f96aJmiO00id&s",
+      "type_of_room": "AC",
+      "bed_type": "Family",
+      "no_of_persons": "13",
+      "capacity": "8",
+      "cost": "1120",
+      "booked": false,
+      "id": 10
+    }
+  ],
+  "users":[]
 }
