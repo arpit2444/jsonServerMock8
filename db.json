@@ -1,4 +1,33 @@
 {
-  "users":[],
+  "users":[ {
+    "username": "arpit",
+    "email": "arpit@gmail.com",
+    "password": "arpit",
+    "id": 1
+  },
+  {
+    "username": "jain",
+    "email": "jain@gmail.com",
+    "password": "jain",
+    "id": 2
+  },
+  {
+    "username": "rohan",
+    "email": "rohan@gmail.com",
+    "password": "rohan",
+    "id": 3
+  },
+  {
+    "username": "mohan",
+    "email": "mohan@gmail.com",
+    "password": "mohan",
+    "id": 4
+  },
+  {
+    "username": "manoj",
+    "email": "manoj@gmail.com",
+    "password": "manoj",
+    "id": 5
+  }],
   "recipes":[]
 }
