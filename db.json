@@ -1,16 +1,4 @@
 {
-  "users":[ {
-    "username": "arpit",
-    "email": "arpit@gmail.com",
-    "password": "arpit",
-    "id": 1
-  },
-  {
-    "username": "jain",
-    "email": "jain@gmail.com",
-    "password": "jain",
-    "id": 2
-  }
-],
+  "users":[],
   "movies":[]
 }
